@@ -1,0 +1,10 @@
+{
+    "name": "iansdapp",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single"
+    }
+}
